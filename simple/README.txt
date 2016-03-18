@@ -1,0 +1,1 @@
+This is project using online Angualr, JQuery and Bootstrap dependencies.
