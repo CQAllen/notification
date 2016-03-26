@@ -1,4 +1,4 @@
-var app = angular.module('plunker', []);
+var app = angular.module('notification', []);
 
 app.controller('NotificationController', ['$scope', function($scope) {
 
